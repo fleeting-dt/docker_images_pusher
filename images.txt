@@ -1,6 +1,6 @@
 mysql
 mysql:8.2.0
-frps:0.59.0
+frp:0.59.0
 redis
 nginx
 postgres
