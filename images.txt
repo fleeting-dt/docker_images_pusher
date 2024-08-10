@@ -1,7 +1,6 @@
 mysql
 mysql:8.2.0
 snowdreamtech/frps:0.59.0
-wnwd/frps:0.59.0
 redis
 nginx
 postgres
