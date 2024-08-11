@@ -2,6 +2,7 @@ mysql
 mysql:8.2.0
 snowdreamtech/frps:0.59.0
 xhofe/alist:v3.36.0
+place1/wg-access-server
 redis
 nginx
 postgres
